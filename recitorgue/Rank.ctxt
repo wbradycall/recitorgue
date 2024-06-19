@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Rank
+comment1.params=pitch\ numberOfPipes
+comment1.target=Rank(int,\ int)
+comment2.params=
+comment2.target=int\ getPitch()
+comment3.params=pitch
+comment3.target=void\ setPitch(int)
+comment4.params=
+comment4.target=int\ getNumberOfPipes()
+comment5.params=numberOfPipes
+comment5.target=void\ setNumberOfPipes(int)
+comment6.params=y
+comment6.target=int\ sampleMethod(int)
+numComments=7

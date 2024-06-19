@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Great
+comment1.params=name\ numberOfKeys\ actionType\ pedalType
+comment1.target=Great(java.lang.String,\ int,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getPedalType()
+comment3.params=pedalType
+comment3.target=void\ setPedalType(java.lang.String)
+numComments=4
